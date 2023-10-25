@@ -1,3 +1,7 @@
+Projeto realizado no curso FullStack da CapGemini.
+
+Projeto consiste em uma página Web de venda de acessórios de informática. Utilizando JavaScript, HTML, CSS, Angular com um pouco de PHP. Com funcionalidades de adicionar e remover da sacola, identificar preços, demonstrar onde fica a localidade da loja pelo Google Maps.
+
 # ProwayComputers
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4.
